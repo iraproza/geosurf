@@ -1,0 +1,30 @@
+/*
+Theme Name: geosurf
+*/
+form .wpcf7-not-valid-tip{
+	color: #ff6262;
+	font-size: 12px;
+	margin-top: 5px;
+}
+.wpcf7-list-item {
+	display: inline-block;
+	margin: 0px!important;
+}
+.fieldt textarea {
+	resize: none;
+	height: 65px;
+}
+.tracking-in-expand-fwd {
+	-webkit-animation: tracking-in-expand-fwd .8s cubic-bezier(.215,.61,.355,1) both;
+	animation: tracking-in-expand-fwd .8s cubic-bezier(.215,.61,.355,1) both;
+}
+.wpcf7-response-output{
+	display: none!important;
+}
+.logged-in .header_wrapper {
+	top: 27px;
+}
+#fieldlocation input{
+	display: none;
+}
+

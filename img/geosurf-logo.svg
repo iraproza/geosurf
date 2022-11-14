@@ -1,0 +1,26 @@
+<svg id="BkK7JKnlX" data-name="layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 169 162">
+    <defs>
+        <linearGradient id="logo-gradient" x1="50%" y1="0%" x2="50%" y2="100%" >
+
+            <stop offset="0%" stop-color="#7A5FFF">
+                <animate attributeName="stop-color" values="#7A5FFF; #01FF89; #7A5FFF" dur="8s" repeatCount="indefinite"></animate>
+            </stop>
+
+            <stop offset="100%" stop-color="#01FF89">
+                <animate attributeName="stop-color" values="#01FF89; #7A5FFF; #01FF89" dur="8s" repeatCount="indefinite"></animate>
+            </stop>
+
+        </linearGradient>
+
+    </defs>
+    <style>
+        #HkWKQ1K2eQ{-webkit-transform:  translate(-10.76px, -16.21px);transform:  translate(-10.76px, -16.21px);}#rJGKX1t2xm{-webkit-transform:  translate(-10.76px, -16.21px);transform:  translate(-10.76px, -16.21px);}
+    </style>
+    <title>
+        GeoSurf
+    </title>
+    <g id="BygFX1t3eQ" data-name="layer_1">
+        <path id="HkWKQ1K2eQ" fill="url('#logo-gradient')" d="M63.74,123.11l-.95,2.76a56.36,56.36,0,1,1,74.7-54.27l-3.07,0a48.78,48.78,0,1,0-70.68,51.46Z"/>
+        <path id="rJGKX1t2xm" fill="url('#logo-gradient')" d="M130,19.44l1-2.26a84.56,84.56,0,1,1-120,69.27l2.67.24A75.37,75.37,0,1,0,130,19.44Z"/>
+    </g>
+</svg>
